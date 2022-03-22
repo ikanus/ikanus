@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikanus
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently programming in C# and .NET framework and learning Python.
 - 💞️ I’m looking to collaborate on .NET projects.
 
 
